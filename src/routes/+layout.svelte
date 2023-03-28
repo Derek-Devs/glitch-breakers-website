@@ -1,6 +1,6 @@
 <script>
     import "../app.css";
-  </script>
+</script>
   <div class="navbar bg-base-100">
     <div class="navbar-start">
       <div class="dropdown">
