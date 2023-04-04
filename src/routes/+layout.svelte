@@ -20,15 +20,15 @@
         <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
         <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow from-primary rounded-box w-52">
           <!-- svelte-ignore a11y-missing-attribute -->
-          <li><a>Homepage</a></li>
-          <li><a>Portfolio</a></li>
-          <li><a>About</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/testimonies">Testimonies</a></li>
+          <li><a href="/about">About</a></li>
         </ul>
       </div>
     </div>
     <div class="navbar-center">
       <!-- svelte-ignore a11y-missing-attribute -->
-      <a class="btn normal-case text-xl">Glitch Breakers</a>
+      <a href="/" class="btn normal-case text-xl p-2">Glitch Breakers</a>
     </div>
     <div class="navbar-end">
       <select data-choose-theme>

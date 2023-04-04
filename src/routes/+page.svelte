@@ -34,7 +34,7 @@
             <div class="divider"></div> 
 
         </ul>      
-        <button class="btn btn-primary">Get Started</button>
+        <button class="btn btn-primary"><a href="/testimonials">View our testimonies</a></button>
       </div>
     </div>
   </div>
