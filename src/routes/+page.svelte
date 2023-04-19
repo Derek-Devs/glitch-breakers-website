@@ -4,7 +4,7 @@
 
 <div class="flex flex-col w-full lg:flex-row">
 
-<div class="hero min-h-screen rounded-box" style="background-image: url(/static/img1.png);">
+<div class="hero min-h-screen rounded-box" style="background-image: url(https://res.cloudinary.com/da5oy1ybv/image/upload/v1681942392/img1_erjeot.png);">
     <div class="hero-overlay bg-opacity-60"></div>
     <div class="hero-content text-center text-neutral-content">
       <div class="max-w-md">
@@ -18,7 +18,7 @@
 
   <div class="divider lg:divider-horizontal"></div> 
 
-  <div class="hero min-h-screen rounded-box" style="background-image: url(/static/img2.png);">
+  <div class="hero min-h-screen rounded-box" style="background-image: url(https://res.cloudinary.com/da5oy1ybv/image/upload/v1681942400/img2_s9ir3i.png);">
     <div class="hero-overlay bg-opacity-60"></div>
     <div class="hero-content text-center text-neutral-content">
       <div class="max-w-md">
