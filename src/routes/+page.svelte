@@ -10,7 +10,8 @@
       <div class="max-w-md">
         <h1 class="mb-5 text-5xl font-bold">Welcome to Glitch Breakers!</h1>
         <p class="mb-5">Our dedicated team of expert developers, designers, and strategists work collaboratively to create bespoke web solutions tailored to your unique needs. We blend cutting-edge technologies with innovative strategies to design custom web applications that not only look stunning but also deliver outstanding performance.</p>
-        <button class="btn btn-primary">Get Started</button>
+        <!-- Still working on quoting function. -->
+        <!-- <button class="btn btn-primary">Get Started</button> -->
       </div>
     </div>
   </div>
@@ -33,8 +34,9 @@
             <li>🔹 Exceptional Support: Our team is committed to providing unparalleled support, from the initial concept to post-launch maintenance and beyond.</li>
             <div class="divider"></div> 
 
-        </ul>      
-        <button class="btn btn-primary"><a href="/testimonials">View our testimonies</a></button>
+        </ul>
+        <!-- Still working on testimonials page       -->
+        <!-- <button class="btn btn-primary"><a href="/testimonials">View our testimonials</a></button> -->
       </div>
     </div>
   </div>
