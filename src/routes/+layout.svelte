@@ -6,6 +6,9 @@
         themeChange(false)
 })
 </script>
+<svelte:head>
+    <title>Glitch Breakers | Home</title> 
+</svelte:head>
 <div class="sticky top-0">
    <div class="navbar bg-hero-pattern bg-secondary rounded-sm bg-transparent">
     <div class="navbar-start">
