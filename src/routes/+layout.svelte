@@ -10,14 +10,11 @@
    <div class="navbar bg-hero-pattern bg-secondary rounded-sm bg-transparent">
     <div class="navbar-start">
        <div class="dropdown">
-        <!-- Still working on this burger menu -->
-        <!-- <label tabindex="0" class="btn btn-square"> 
+        <label tabindex="0" class="btn btn-square">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" /></svg>
-        </label> -->
+        </label>
         <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow from-primary rounded-box w-52">
           <li><a href="/">Home</a></li>
-          <li><a href="/testimonials">Testimonials</a></li>
-          <li><a href="/about">About</a></li>
         </ul>
       </div> 
     </div> 
