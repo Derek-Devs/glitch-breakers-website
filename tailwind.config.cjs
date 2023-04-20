@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-pattern': "url('./static/signal.svg')",
+        'hero-pattern': "url('https://res.cloudinary.com/da5oy1ybv/image/upload/v1682006443/signal_roxwy1.svg')",
       }
     },
   },
